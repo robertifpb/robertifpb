@@ -77,10 +77,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertifpb&theme=cobalt&show_icons=true&hide_border=false&layout=compact" />
 </a>
 <br/><br/>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=robertifpb&theme=cobalt&hide_border=false">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertifpb&theme=cobalt&hide_border=false" />
-</a>
-<br/><br/>
 <a href="https://github-readme-stats.vercel.app/api?username=robertifpb&theme=cobalt&show_icons=true&hide_border=false&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertifpb&theme=cobalt&show_icons=true&hide_border=false&count_private=true" />
 </a>
