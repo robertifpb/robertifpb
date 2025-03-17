@@ -1,8 +1,6 @@
-# 🤖Álex Robert 💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Álex+Robert&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-**`Desenvolvedor Front-end em formação`**
-
-Olá, me chamo Álex Robert, tenho 27 anos, moro em Serra da Raiz, na Paraiba, 109Km da capital do estado. Atualmente estou cursando Superior de Tecnologia em Sistemas para Internet, pelo Instituto Federal da Paraiba (IFPB), no Campus Guarabira. Ainda sou um iniciante na área, mas estou sempre ansioso para aprender mais.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&width=435&lines=Be+Welcome!+%3DD;Hello%2C+my+name+is+%C3%81lex+Robert;I'm+27+years+old;I'm+naturally+Brazilian%2C+PB;Developer+in+training)](https://git.io/typing-svg)
 
 ### ⚔️ Linguagens e Tecnologias:
 
@@ -91,3 +89,5 @@ Olá, me chamo Álex Robert, tenho 27 anos, moro em Serra da Raiz, na Paraiba, 1
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8ECAE6?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/alexdevoloper/)
 [![Gmail](https://img.shields.io/badge/Gmail-8ECAE6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.braz@academico.ifpb.edu.br)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer&fontColor=fff&animation&fontSize=30&animation=twinkling&fontAlign=35"/>
